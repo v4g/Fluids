@@ -1,0 +1,4 @@
+﻿  MyWorld.cpp
+c:\users\vinay\documents\gt\cs 7496 animation\project4_win\cs4496_win_p5\cs4496win_p5\myworld.cpp(146): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cs4496Win_P5.vcxproj -> C:\Users\vinay\Documents\GT\CS 7496 Animation\Project4_Win\cs4496_Win_P5\Debug\cs4496Win_P5.exe
+  cs4496Win_P5.vcxproj -> C:\Users\vinay\Documents\GT\CS 7496 Animation\Project4_Win\cs4496_Win_P5\Debug\cs4496Win_P5.pdb (Full PDB)
